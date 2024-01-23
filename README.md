@@ -5,7 +5,7 @@ Datastructures Algorithms Problems and their solutions
   a. Preorder traversal
   b. Inorder traversal
   c. Postorder traversal
-  d.
+  d. topview of binary tree -> horizontal distance 
   e.
   f.
   g.
